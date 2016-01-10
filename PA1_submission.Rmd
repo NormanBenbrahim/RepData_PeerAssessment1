@@ -7,7 +7,7 @@ output:
 
 
 ## Loading and preprocessing the data
-
+First we need to unzip the data found in `activity
 
 
 ## What is mean total number of steps taken per day?
