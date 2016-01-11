@@ -1,3 +1,8 @@
+## EDIT
+
+I have a working R Markdown file, to which the resulting markdown can be viewed in this repo (PA1_submission.md). Below you wil find instructions for the assignment.
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
