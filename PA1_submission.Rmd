@@ -186,7 +186,7 @@ head(final)
 ```{r}
 # the plot 
 final_plot <- ggplot(final, aes(interval, steps)) + ggtitle("Time Series Plots After Replacing NAs, By Time Of Week") +
-              facet_grid(. ~ weekday) + geom_line(size = 1)
+              xlab("Interval") + ylab("Steps") + facet_grid(. ~ weekday) + geom_line(size = 1)
 final_plot
 ```
 
